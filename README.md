@@ -3,7 +3,8 @@
 This repository contains my internship tasks and official certificates.
 
 ## 📂 Reports
-- **InAmigos Task 1.pdf** → Research on Top NGOs in India  
+- **InAmigos Task 1.pdf** → Compiled research on Top 10 NGOs in India.  
+  Includes organization details, focus areas, and impact analysis.
 - More tasks will be added here as the internship progresses.
 
 ## 📂 Certificates
